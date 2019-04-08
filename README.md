@@ -1,6 +1,9 @@
 # template
 go load template
 
+##
+    1、支持模板定时更新
+
 ### go code
 
     temp := template.Temp("./html/index2.html")
